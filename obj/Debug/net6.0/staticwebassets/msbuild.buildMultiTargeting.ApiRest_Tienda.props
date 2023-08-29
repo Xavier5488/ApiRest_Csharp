@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiRest_Tienda.props" />
+</Project>

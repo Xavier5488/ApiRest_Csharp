@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F1IWBlEMFlHznRPzHtTsIVVHldnxx6rO23IdOmkVBqA=",
+  "Source": "ApiRest_Tienda",
+  "BasePath": "_content/ApiRest_Tienda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
